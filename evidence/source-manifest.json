@@ -1,0 +1,16 @@
+{
+  ".gitignore": "9b58848d6b86ddfc5d6d29f6b1bfb0e00033ee696c0bee5240189ff97cb39d49",
+  "AGENTS.md": "15cfdb61f41f8f115f59f4e761daafac02a2643e261a531627052a0d2a0ef573",
+  "Aerospace & Defense/README.md": "35d6ead79a829f7b4430d0850fcac8d823d755413e438a7e576484ce78741b40",
+  "Automotive & Mobility/README.md": "b9c06289efccda6271c798201d113d0446855308200685710faa56fbf1aa2a91",
+  "CONTRIBUTING.md": "bdb967534cc379bd1980b80c04bef19f3e4700ce96691e959a3f2fabd717cf88",
+  "Engineering & Construction/README.md": "736b54dc257ffc28a1a669bfc6b737ab0cac0a1c444da0a13679bfb2fa1700b4",
+  "INDUSTRY-PORTFOLIO.md": "34bc40c45251ea439544ea1513b5d2646050e79867e4c1827eb695bc55edd469",
+  "Industrial Manufacturing/README.md": "a6957b8c08c2c87814fe9c564f52e3e63ef120bed3a8c8e7d96179e8377bbbb8",
+  "LICENSE": "4df23e737915f9b62c5430b633e6b74104f5c9f9f154cc93e9fe89318f84b5b0",
+  "README.md": "19d6ed75ef27a6530dc7bf6c9abc8fd4c4aea1de626b39306e5497700bfc9d5b",
+  "SECURITY.md": "660145df75390defa74061bdadde1c6c18d5757987e1ef9b7bef2c2d6e14af91",
+  "catalog/industry.json": "3be632dd8d3b8cd1cb34581d660f42311380b311fdee2f33bfbf6be72ac42f25",
+  "tools/README.md": "ad3ddbe75c3a49e9a6933bf120c0b86b4324835778e263c64809cd5411d2a2d4",
+  "tools/check_catalog.py": "7622855182148aa4d09231281ee93da90973e41cc879d770e8b930ec30a4cf70"
+}

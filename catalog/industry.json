@@ -1,0 +1,29 @@
+{
+  "id": 5,
+  "title": "Industrial & Manufacturing",
+  "slug": "CISO-blueprint-and-tools-for-Industrial-and-Manufacturing",
+  "container": "ciso-industry-5-dev",
+  "volume": "ciso-industry-5-workspace",
+  "sectors": [
+    {
+      "title": "Automotive & Mobility",
+      "folder": "Automotive & Mobility",
+      "scope": "Vehicle manufacturing, auto components, electric vehicles, and autonomous technology."
+    },
+    {
+      "title": "Aerospace & Defense",
+      "folder": "Aerospace & Defense",
+      "scope": "Commercial aircraft, space exploration, defense contractors, and military hardware."
+    },
+    {
+      "title": "Industrial Manufacturing",
+      "folder": "Industrial Manufacturing",
+      "scope": "Heavy machinery, robotics, electrical equipment, and building materials."
+    },
+    {
+      "title": "Engineering & Construction",
+      "folder": "Engineering & Construction",
+      "scope": "Infrastructure development, civil engineering, and commercial construction."
+    }
+  ]
+}
